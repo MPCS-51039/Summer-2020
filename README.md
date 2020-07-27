@@ -9,3 +9,5 @@
 [Session 4 Notes](https://docs.google.com/document/d/1qESrG_gyl9Dl1GtR04dwfqavEpy_Lf0xaGDsSSorMVU/edit)
 
 [Session 5 Notes](https://docs.google.com/document/d/1lrLEFSnfz8V7SBjbc66eJLchNa4kPEDNr-4fAmg-GFY/edit#)
+
+[Session 6 Notes](https://docs.google.com/document/d/1qh10WsFdl_qdESMY-dvOceIVXj10LJq0MgVL8VnfkyM/edit?usp=sharing)
