@@ -13,3 +13,5 @@
 [Session 6 Notes](https://docs.google.com/document/d/1qh10WsFdl_qdESMY-dvOceIVXj10LJq0MgVL8VnfkyM/edit?usp=sharing)
 
 [Session 7 Notes](https://docs.google.com/document/d/1yJMvxcj-BST_kzSgCDw1cTYfsIfltJ2fKifM3MjN5B4/edit)
+
+[Session 8 Notes](https://docs.google.com/document/d/19uQP6DagxkL5zNNuaLx6EJSDSSe4JTNEuaemzRbxaMY/edit?usp=sharing)
